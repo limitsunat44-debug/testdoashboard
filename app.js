@@ -19,7 +19,7 @@ let appData = {
 // ═══════════════════════════════════════════════════════════════
 // SUPABASE CONFIGURATION
 // ═══════════════════════════════════════════════════════════════
-const SUPABASE_URL = 'https://jyhlrjrrmemttyvicibq.supabase.co';
+const SUPABASE_URL = 'https://supabase.com/dashboard/project/jyhlrjrrmemttyvicibq';
 const SUPABASE_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imp5aGxyanJybWVtdHR5dmljaWJxIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjEzNjk2NjgsImV4cCI6MjA3Njk0NTY2OH0.XrkLM9jFmnnGQMkU2dxy286gzdYE43QdMzBj3Z4Ig7s';
 
 // Инициализация Supabase клиента
